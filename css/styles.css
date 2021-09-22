@@ -76,9 +76,9 @@ p {
     margin-right: 50%;
 }
 
-@media (max-width:430px) {
+@media (max-width:700px) {
     .navbar-brand {
-        margin-right: 10%;
+        margin-right: 0%;
     }
 }
 
